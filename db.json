@@ -1,0 +1,34 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Empanadas",
+            "origen": "Argentina"
+        },
+        {
+            "id": 2,
+            "name": "Encebollado",
+            "origen": "Ecuador"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "name": "Luis",
+            "origen": "Colombia",
+            "year": "2021"
+        },
+        {
+            "id": 2,
+            "name": "Encebollado",
+            "origen": "Ecuador",
+            "year": "2000"
+        },
+        {
+            "id": 3,
+            "name": "Encebollado",
+            "origen": "Ecuador",
+            "year": "2019"
+        }
+    ]
+}
